@@ -24,10 +24,11 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: hiker
+- description: 80%
+  icon: lab
   icon_pack: custom
-  name: Hiking
+  name: Lab Work
+  
   
 #- icon: skiing
 #  icon_pack: custom
