@@ -26,11 +26,6 @@ feature:
   icon_pack: custom
   name: Skiing
   description: 20%
-
-- icon: traveling
-  icon_pack: custom
-  name: Traveling
-  description: 20%
  
 - icon: language
   icon_pack: custom
