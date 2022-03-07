@@ -10,14 +10,6 @@ all_day: no
 event: Biophysical Society Conference
 event_url: https://www.biophysics.org/annual-meeting#/
 featured: no
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 location: Wowchemy HQ
 projects: internal-project
 publishDate: '2017-01-01T00:00:00Z'
