@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Publications
 subtitle: ""
 
 content:
@@ -20,9 +20,9 @@ content:
   # Filter on criteria
   filters:
     author: "Gabrielle Kosoy"
-    category: ""
-    publication_type: ""
-    tag: ""
+    category: "testing"
+    publication_type: "testing"
+    tag: "testing"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   
@@ -46,5 +46,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
