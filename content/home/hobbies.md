@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Hobbies
 subtitle:
 
 # Showcase personal skills or business features.
@@ -20,19 +20,15 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: hiker
-  icon_pack: custom
-  name: Hiking
-  
 #- icon: skiing
 #  icon_pack: custom
-#  name: Surfing
-#  description: 90%
+#  name: Skiing
+#  description: 20%
+
+#- icon: traveling
+#  icon_pack: custom
+#  name: Traveling
+#  description: 20%
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
