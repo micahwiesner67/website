@@ -20,14 +20,16 @@ feature:
   icon_pack: fab
   name: R
 # description: 90%
-- icon: chart-line
-  icon_pack: fas
-  name: Statistics
-# description: 100%
+
 - icon: lab
   icon_pack: custom
   name: Lab Work
 # description: 80%
+
+- icon: chart-line
+  icon_pack: fas
+  name: Statistics
+# description: 100%
   
   
 #- icon: skiing

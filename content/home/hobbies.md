@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   
-- icon: hiker
-  icon_pack: custom
-  name: Hiking
-# description: 10%
-  
 - icon: skiing
   icon_pack: custom
   name: Skiing
 # description: 20%
+
+- icon: hiker
+  icon_pack: custom
+  name: Hiking
+# description: 10%
  
 - icon: language
   icon_pack: custom
