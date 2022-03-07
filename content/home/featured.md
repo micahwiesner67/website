@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Gabrielle Kosoy"
     category: ""
     publication_type: ""
     tag: ""
