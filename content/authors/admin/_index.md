@@ -1,24 +1,24 @@
 ---
-bio: My research interests include paleoclimatology, geochemistry, and geospatial statistics.
+bio: My research interests include sensors & diagnostics, data science, and big data.
   matter.
 education:
   courses:
-  - course: MSc in Earth Sciences
-    institution: Syracuse University
+  - course: MSc in Biophysics
+    institution: University of Rochester
     year: 2020
-  - course: BSc in Geophysics
+  - course: BSc in Biophysics
     institution: SUNY Geneseo
-    year: 2016
+    year: 2015
 email: ""
 highlight_name: true
 interests:
 - Data Science
 - R
-- Natural Language Processing
+- sensors & diagnostics
 organizations:
-- name: Riskified
-  url: https://www.riskified.com/
-role: Research Data Analyst
+- name: URMC
+  url: https://www.urmc.rochester.edu/
+role: PhD Canddidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,9 +37,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Micah Wiesner 
+title: Gabrielle Kosoy
 ---
 
-Micah Wiesner is a data scientist.
+Gabrielle Kosoy is a PhD student interested in biophysics and data scientist.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
