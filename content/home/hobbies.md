@@ -21,6 +21,11 @@ feature:
   icon_pack: custom
   name: Hiking
 # description: 10%
+
+- icon: skiing
+  icon_pack: custom
+  name: skiing 2
+# description: 10%
   
 - icon: skiing
   icon_pack: custom
