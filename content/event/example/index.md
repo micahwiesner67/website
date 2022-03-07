@@ -10,7 +10,6 @@ all_day: no
 event: Biophysical Society Conference
 event_url: https://www.biophysics.org/annual-meeting#/
 featured: no
-location: Wowchemy HQ
 projects: internal-project
 publishDate: '2017-01-01T00:00:00Z'
 slides: example

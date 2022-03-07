@@ -6,6 +6,8 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
 weight: 70
 
@@ -13,7 +15,7 @@ title: 'Talks'
 subtitle:
 
 content:
-  # Page type to display. E.g. post, event, publication...
+  # Page type to display. E.g. event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
